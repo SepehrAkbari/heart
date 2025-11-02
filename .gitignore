@@ -1,0 +1,8 @@
+.venv
+.vscode
+
+data/*
+!data/.gitkeep
+!data/README.md
+
+src/main.ipynb

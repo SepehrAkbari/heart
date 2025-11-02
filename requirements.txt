@@ -1,0 +1,15 @@
+pandas
+numpy
+librosa
+matplotlib
+tqdm
+torch
+torchaudio
+scikit-learn
+scikit-image
+seaborn
+soundfile
+torchvision
+opencv-python
+Pillow
+scipy
