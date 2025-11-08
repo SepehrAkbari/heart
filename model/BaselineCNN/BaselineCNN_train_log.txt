@@ -1,0 +1,25 @@
+Epoch 1/50: Train Loss: 0.6589 | Val Loss: 0.5549
+Model checkpoint saved.
+Epoch 2/50: Train Loss: 0.4140 | Val Loss: 0.5224
+Model checkpoint saved.
+Epoch 3/50: Train Loss: 0.3564 | Val Loss: 0.5528
+Epoch 4/50: Train Loss: 0.3659 | Val Loss: 0.5369
+Epoch 5/50: Train Loss: 0.3268 | Val Loss: 0.5820
+Epoch 6/50: Train Loss: 0.2790 | Val Loss: 0.6749
+Epoch 7/50: Train Loss: 0.2475 | Val Loss: 0.5186
+Model checkpoint saved.
+Epoch 8/50: Train Loss: 0.2217 | Val Loss: 0.8352
+Epoch 9/50: Train Loss: 0.1998 | Val Loss: 0.5723
+Epoch 10/50: Train Loss: 0.1780 | Val Loss: 0.4892
+Model checkpoint saved.
+Epoch 11/50: Train Loss: 0.1734 | Val Loss: 0.6053
+Epoch 12/50: Train Loss: 0.1574 | Val Loss: 0.9549
+Epoch 13/50: Train Loss: 0.1160 | Val Loss: 0.7546
+Epoch 14/50: Train Loss: 0.1007 | Val Loss: 0.8621
+Epoch 15/50: Train Loss: 0.0774 | Val Loss: 1.1218
+Epoch 16/50: Train Loss: 0.0682 | Val Loss: 1.3414
+Epoch 17/50: Train Loss: 0.0602 | Val Loss: 1.4286
+Epoch 18/50: Train Loss: 0.0336 | Val Loss: 1.7146
+Epoch 19/50: Train Loss: 0.0300 | Val Loss: 2.1644
+Epoch 20/50: Train Loss: 0.0158 | Val Loss: 2.1958
+Stopping early (10 epochs without improvement).
