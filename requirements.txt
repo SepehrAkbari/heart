@@ -13,3 +13,4 @@ torchvision
 opencv-python
 Pillow
 scipy
+tabulate
